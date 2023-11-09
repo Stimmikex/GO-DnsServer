@@ -1,4 +1,4 @@
-module dnsS
+module github.com/Stimmikex/GO-DnsServer
 
 go 1.21.1
 
