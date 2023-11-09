@@ -1,4 +1,4 @@
-module dnsServer
+module dnsS
 
 go 1.21.1
 
